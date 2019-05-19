@@ -1,0 +1,23 @@
+package com.compname.mb.adapter.sms;
+
+import com.compname.mb.adapter.MBAdapter;
+import com.compname.mb.adapter.config.EmailConfig;
+import com.compname.mb.adapter.config.SMSConfig;
+import com.compname.mb.adapter.exception.MBAdapterException;
+import com.compname.mb.adapter.model.MBAdapterResponse;
+
+public class SMSAdapter implements MBAdapter{
+
+	public public SMSAdapter() {
+		if(!(config instanceof SMSConfig))
+			throw new MBAdapterException("EmailConfig Not Found");
+	}
+	
+	
+	@Override
+	public MBAdapterResponse send() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

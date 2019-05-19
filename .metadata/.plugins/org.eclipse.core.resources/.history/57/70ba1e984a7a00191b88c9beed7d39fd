@@ -1,0 +1,25 @@
+package com.compname.mb.adapter.email;
+
+import java.util.List;
+
+import com.compname.mb.adapter.MBAdapter;
+import com.compname.mb.adapter.model.MBAdapterResponse;
+
+public class EmailAdapter implements MBAdapter{
+
+	
+	private EmailAdapter() {
+	}
+
+	private String from;
+	private String to;
+	private String subject;
+	private String body;
+	
+	@Override
+	public MBAdapterResponse send() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

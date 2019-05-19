@@ -1,0 +1,20 @@
+package com.compname.mb.adapter;
+
+import com.compname.mb.adapter.config.Config;
+import com.compname.mb.adapter.config.EmailConfig;
+import com.compname.mb.adapter.email.EmailAdapter;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        Config c = new EmailConfig();
+        MBAdapter adapter = new EmailAdapter(c);
+        
+    }
+}

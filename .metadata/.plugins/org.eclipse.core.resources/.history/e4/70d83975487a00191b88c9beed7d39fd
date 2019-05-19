@@ -1,0 +1,7 @@
+package com.compname.mb.adapter.sms;
+
+import com.compname.mb.adapter.MBAdapter;
+
+public class SMSAdapter implements MBAdapter{
+
+}

@@ -1,0 +1,19 @@
+package com.compname.mb.adapter.sms;
+
+import com.compname.mb.adapter.MBAdapter;
+import com.compname.mb.adapter.model.MBAdapterResponse;
+
+public class SMSAdapter implements MBAdapter{
+
+	public public SMSAdapter() {
+		
+	}
+	
+	
+	@Override
+	public MBAdapterResponse send() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

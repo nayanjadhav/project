@@ -1,0 +1,441 @@
+2019-05-19 19:58:28,175 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\memorybox\project\mb-adapter\pom.xml
+2019-05-19 19:58:34,437 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.compname.mb.adapter:mb-adapter:0.0.1-SNAPSHOT @ E:\memorybox\project\mb-adapter\pom.xml.
+2019-05-19 19:58:37,467 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mb-adapter/src/main/java
+2019-05-19 19:58:37,475 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mb-adapter/src/test/java
+2019-05-19 19:58:39,725 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2019-05-19 19:58:40,612 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 19:58:40,612 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 19:58:40,614 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 19:58:40,615 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:04:47,330 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.pom
+2019-05-19 20:04:47,626 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.pom
+2019-05-19 20:04:47,911 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/6.0_ALPHA/asm-parent-6.0_ALPHA.pom
+2019-05-19 20:04:48,195 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/6.0_ALPHA/asm-parent-6.0_ALPHA.pom
+2019-05-19 20:04:48,523 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.pom
+2019-05-19 20:04:49,077 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.pom
+2019-05-19 20:04:49,393 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.pom
+2019-05-19 20:04:49,674 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.pom
+2019-05-19 20:04:49,955 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.1/plexus-compiler-2.8.1.pom
+2019-05-19 20:04:50,237 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.1/plexus-compiler-2.8.1.pom
+2019-05-19 20:04:50,596 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.pom
+2019-05-19 20:04:50,877 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.pom
+2019-05-19 20:04:51,162 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.pom
+2019-05-19 20:04:51,455 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.pom
+2019-05-19 20:04:51,739 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.1/plexus-compilers-2.8.1.pom
+2019-05-19 20:04:52,020 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.1/plexus-compilers-2.8.1.pom
+2019-05-19 20:04:52,333 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.jar
+2019-05-19 20:04:52,901 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.jar
+2019-05-19 20:04:53,180 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.jar
+2019-05-19 20:04:54,892 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.jar
+2019-05-19 20:04:55,165 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.jar
+2019-05-19 20:04:56,079 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.jar
+2019-05-19 20:04:56,351 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.jar
+2019-05-19 20:04:56,654 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.jar
+2019-05-19 20:04:56,930 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.jar
+2019-05-19 20:04:57,280 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.jar
+2019-05-19 20:04:59,218 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.compname.mb.adapter:mb-adapter:0.0.1-SNAPSHOT @ E:\memorybox\project\mb-adapter\pom.xml.
+2019-05-19 20:04:59,527 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:04:59,527 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:04:59,529 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:04:59,529 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:05:31,900 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-05-19 20:05:32,304 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.compname.mb.adapter:mb-adapter:0.0.1-SNAPSHOT @ E:\memorybox\project\mb-adapter\pom.xml.
+2019-05-19 20:05:32,497 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mb-adapter/src/main/java
+2019-05-19 20:05:32,498 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mb-adapter/src/test/java
+2019-05-19 20:05:32,718 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-05-19 20:05:32,871 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:05:32,872 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:05:32,874 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:05:32,874 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:19:46,839 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:19:46,839 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:19:46,840 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:19:46,840 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:20:48,676 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:20:48,677 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:20:48,677 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:20:48,677 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:20:55,861 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:20:55,862 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:20:55,862 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:20:55,862 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:21:04,636 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:21:04,636 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:21:04,637 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:21:04,637 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:22:27,333 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:22:27,333 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:22:27,334 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:22:27,334 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:22:36,380 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:22:36,380 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:22:36,381 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:22:36,381 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:23:41,619 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:23:41,619 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:23:41,621 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:23:41,621 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:23:42,632 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:23:42,632 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:23:42,633 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:23:42,633 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:23:55,034 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:23:55,035 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:23:55,035 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:23:55,035 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:24:09,859 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:24:09,859 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:24:09,862 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:24:09,862 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:28:58,329 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:28:58,329 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:28:58,329 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:28:58,329 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:29:01,646 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:29:01,647 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:29:01,647 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:29:01,647 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:35:18,185 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:35:18,186 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:35:18,187 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:35:18,187 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:35:32,436 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:35:32,436 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:35:32,436 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:35:32,436 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:35:35,877 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:35:35,877 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:35:35,878 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:35:35,878 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:35:47,054 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:35:47,054 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:35:47,055 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:35:47,055 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:35:50,453 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:35:50,453 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:35:50,454 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:35:50,454 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:37:19,865 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:37:19,865 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:37:19,865 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:37:19,865 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:37:32,341 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:37:32,341 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:37:32,342 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:37:32,342 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:38:09,249 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:38:09,249 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:38:09,250 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:38:09,250 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:38:22,695 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:38:22,695 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:38:22,696 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:38:22,696 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:38:32,871 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:38:32,872 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:38:32,872 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:38:32,872 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:38:41,958 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:38:41,958 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:38:41,958 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:38:41,958 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:38:48,707 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:38:48,707 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:38:48,707 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:38:48,707 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:41:53,271 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:41:53,271 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:41:53,272 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:41:53,272 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:41:59,499 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:41:59,499 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:41:59,500 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:41:59,500 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:42:03,612 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:42:03,612 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:42:03,612 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:42:03,612 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:42:16,565 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:42:16,565 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:42:16,566 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:42:16,566 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:42:28,298 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:42:28,298 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:42:28,299 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:42:28,299 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:46:05,163 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:46:05,163 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:46:05,163 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:46:05,163 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:46:12,177 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:46:12,177 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:46:12,177 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:46:12,177 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:46:15,682 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:46:15,682 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:46:15,683 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:46:15,683 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:46:18,385 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:46:18,385 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:46:18,386 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:46:18,386 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:53:01,546 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:53:01,547 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:53:01,547 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:53:01,547 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:53:28,369 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:53:28,369 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:53:28,370 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:53:28,370 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:53:52,519 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:53:52,520 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:53:52,520 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:53:52,520 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:57:12,719 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:57:12,720 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:57:12,720 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:57:12,720 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:57:21,149 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:57:21,149 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:57:21,149 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:57:21,149 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:57:43,885 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:57:43,885 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:57:43,885 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:57:43,886 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:58:01,952 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:58:01,952 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:58:01,953 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:58:01,953 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:58:11,700 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:58:11,700 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:58:11,700 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:58:11,701 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:58:15,179 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:58:15,179 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:58:15,180 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:58:15,180 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:58:18,198 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:58:18,199 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:58:18,199 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:58:18,199 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 20:58:21,218 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:58:21,218 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 20:58:21,218 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 20:58:21,218 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:14:47,139 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:14:47,140 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:14:47,140 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:14:47,141 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:15:48,979 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:15:48,980 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:15:48,980 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:15:48,980 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:16:02,130 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:16:02,130 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:16:02,131 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:16:02,131 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:16:30,091 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:16:30,091 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:16:30,091 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:16:30,091 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:18:13,398 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:18:13,398 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:18:13,399 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:18:13,399 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:18:48,002 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:18:48,002 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:18:48,002 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:18:48,003 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:18:53,778 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:18:53,778 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:18:53,779 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:18:53,779 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:19:58,905 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:19:58,905 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:19:58,907 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:19:58,907 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:25:15,860 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:25:15,860 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:25:15,861 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:25:15,861 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:25:33,458 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:25:33,458 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:25:33,459 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:25:33,459 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:34:07,705 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:34:07,705 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:34:07,705 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:34:07,705 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:34:41,385 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:34:41,386 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:34:41,386 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:34:41,386 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:35:03,314 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:35:03,314 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:35:03,314 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:35:03,314 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:36:14,237 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:36:14,238 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:36:14,238 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:36:14,238 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:36:41,858 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:36:41,858 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:36:41,858 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:36:41,859 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:37:04,511 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:04,511 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:37:04,512 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:04,512 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:37:10,066 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:10,067 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:37:10,067 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:10,067 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:37:12,132 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:12,132 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:37:12,132 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:12,133 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:37:19,945 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:19,946 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:37:19,946 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:19,946 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:37:22,067 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:22,067 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:37:22,068 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:22,068 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:37:32,928 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:32,928 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:37:32,928 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:32,928 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:37:37,297 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:37,297 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:37:37,297 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:37,297 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:37:59,777 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:59,777 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:37:59,778 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:37:59,778 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:38:32,121 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:38:32,121 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:38:32,121 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:38:32,122 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:46:50,534 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:46:50,535 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:46:50,535 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:46:50,535 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:46:57,815 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:46:57,815 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:46:57,816 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:46:57,816 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:47:23,032 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:47:23,032 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:47:23,033 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:47:23,033 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:47:44,102 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:47:44,102 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:47:44,103 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:47:44,103 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:47:52,399 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:47:52,399 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:47:52,400 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:47:52,400 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:47:56,076 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:47:56,077 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:47:56,077 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:47:56,077 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:48:01,537 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:01,537 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:48:01,538 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:01,538 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:48:06,635 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:06,635 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:48:06,636 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:06,636 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:48:10,067 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:10,067 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:48:10,068 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:10,068 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:48:13,480 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:13,480 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:48:13,481 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:13,481 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:48:19,051 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:19,051 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:48:19,052 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:19,052 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:48:22,684 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:22,684 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:48:22,684 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:22,684 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:48:29,977 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:29,977 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:48:29,977 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:29,977 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:48:59,017 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:59,018 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:48:59,018 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:48:59,018 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:49:48,473 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:49:48,473 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:49:48,474 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:49:48,474 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:50:00,657 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:50:00,658 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:50:00,658 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:50:00,658 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 21:50:31,409 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:50:31,409 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 21:50:31,409 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 21:50:31,410 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:34:35,400 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:34:35,401 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:34:35,401 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:34:35,401 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:34:48,166 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:34:48,166 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:34:48,167 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:34:48,167 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:34:54,388 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:34:54,388 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:34:54,389 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:34:54,390 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:35:00,875 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:00,875 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:35:00,876 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:00,876 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:35:05,096 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:05,096 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:35:05,097 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:05,097 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:35:37,011 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:37,011 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:35:37,012 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:37,012 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:35:46,283 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:46,283 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:35:46,284 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:46,284 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:35:52,673 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:52,674 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:35:52,675 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:52,675 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:35:56,414 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:56,415 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:35:56,415 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:35:56,415 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:36:01,372 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:36:01,372 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:36:01,372 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:36:01,372 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:36:35,354 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:36:35,354 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:36:35,354 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:36:35,355 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:40:41,387 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:40:41,387 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:40:41,387 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:40:41,388 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources
+2019-05-19 22:40:46,290 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:40:46,290 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\main\resources
+2019-05-19 22:40:46,290 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-19 22:40:46,290 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\memorybox\project\mb-adapter\src\test\resources

@@ -1,0 +1,14 @@
+package com.compname.mb.adapter.exception;
+
+import com.compname.mb.adapter.model.MBAdapterResponse;
+
+public   class MBAdapter implements com.compname.mb.adapter.MBAdapter{
+
+	public abstract MBAdapterResponse sendEmail();
+	
+	@Override
+	public MBAdapterResponse send() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}
